@@ -15,6 +15,7 @@
 	<meta name="keywords" content="web, internet, design, technology, interface, multimedia, script, commentary, hardware, software, articles, news, history, browsers, archive" />
 	<meta name="description" content="A world community for web developers, evolt.org promotes the mutual free exchange of ideas, skills and experiences." />
 	<link rel="shortcut icon" href="/favicon.ico" />
+	<link href="http://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" type="text/css">
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
 	<link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="/assets/css/magnificpopup.css" media="screen" />
